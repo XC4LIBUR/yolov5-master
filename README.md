@@ -19,7 +19,7 @@ $ pip install -r requirements.txt
 
 ## Run Program
 
-This will save run the program which will use the images in ./images folder and saves the croped and detected images to runs/exp[x] 
+This will run the program which will use the images in ./images folder and saves the croped and detected images to runs/exp[x] 
 ```bash
 $ python run.py
 ```
